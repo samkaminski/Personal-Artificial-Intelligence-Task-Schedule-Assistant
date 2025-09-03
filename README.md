@@ -1,0 +1,1 @@
+The Personal AI Task Schedule Assistant is a mobile-first project designed to manage daily schedules, tasks, and goals. It integrates with Google Calendar and OpenWeather to provide context-aware reminders, planning support, and future AI-powered insights.
