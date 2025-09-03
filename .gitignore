@@ -4,6 +4,7 @@
 *.key
 *.pem
 *.json
+tokens.json
 
 # Node/Firebase/Expo generated files
 node_modules/
