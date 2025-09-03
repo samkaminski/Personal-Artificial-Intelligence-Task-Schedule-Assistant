@@ -1,0 +1,18 @@
+# Environment and secrets
+.env
+*.env
+*.key
+*.pem
+*.json
+
+# Node/Firebase/Expo generated files
+node_modules/
+**/node_modules/
+dist/
+build/
+.expo/
+.expo-shared/
+firebase-debug.log
+
+# OS/editor files
+.DS_Store
